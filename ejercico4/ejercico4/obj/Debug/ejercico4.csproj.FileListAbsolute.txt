@@ -1,0 +1,7 @@
+C:\Users\Estudiante\Desktop\PROF CANO\TP8-FLORES LUNA-PROYECTO\ejercico4\ejercico4\bin\Debug\ejercico4.exe.config
+C:\Users\Estudiante\Desktop\PROF CANO\TP8-FLORES LUNA-PROYECTO\ejercico4\ejercico4\bin\Debug\ejercico4.exe
+C:\Users\Estudiante\Desktop\PROF CANO\TP8-FLORES LUNA-PROYECTO\ejercico4\ejercico4\bin\Debug\ejercico4.pdb
+C:\Users\Estudiante\Desktop\PROF CANO\TP8-FLORES LUNA-PROYECTO\ejercico4\ejercico4\obj\Debug\ejercico4.csprojAssemblyReference.cache
+C:\Users\Estudiante\Desktop\PROF CANO\TP8-FLORES LUNA-PROYECTO\ejercico4\ejercico4\obj\Debug\ejercico4.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante\Desktop\PROF CANO\TP8-FLORES LUNA-PROYECTO\ejercico4\ejercico4\obj\Debug\ejercico4.exe
+C:\Users\Estudiante\Desktop\PROF CANO\TP8-FLORES LUNA-PROYECTO\ejercico4\ejercico4\obj\Debug\ejercico4.pdb
